@@ -1,0 +1,8 @@
+*.xlsx
+*.json
+
+Cargo.lock
+debug/
+target/
+**/*.rs.bk
+
